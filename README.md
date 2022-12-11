@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data?resource=download"><img src="h[ttps://storage.googleapis.com/kaggle-datasets-images/721951/1255601/61caf246bebd3a50ede855b07caff2d8/dataset-cover.jpg?t=2020-06-17-07-41-37](https://preview.redd.it/6zlk0zo2f2851.gif?format=png8&s=7d60c97712d93b1ffc33a8daf2111e78ee2af06f)" alt="Country categorization" width="200"></a>
+
   <br>
   Country categorization
   <br>
