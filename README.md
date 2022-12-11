@@ -24,7 +24,7 @@
 
 ## Key Features
 
-This machine learning model predicts the happines score of a given country. This prediction is a number between 0 and 10. The dataset is taken from the [World Happiness Report Kaggle Competition](https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2017.csv). So here are the key features of this project:
+This machine learning model clusters the world contries according with econ and social data. This prediction is one of 4 clusters. The dataset is taken from the [Unsupervised Learning on Country Data Kaggle Competition](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data?resource=download). So here are the key features of this project:
 
 * Prediction is based on this country's features:
   - `country`
